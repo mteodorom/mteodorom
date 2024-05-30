@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [placeholder](placeholder)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, LLM Integration**
 
 - 📫 How to reach me **miguel.teodoro117@gmail.com**
 
