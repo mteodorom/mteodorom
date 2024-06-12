@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miguel Teodoro</h1>
 <h3 align="center">Computer Scientist from Queen's University with experience in Technical Analyst work.</h3>
 
-- 🔭 I’m currently working on [placeholder](placeholder)
+- 🔭 I’m currently working on PAIM AI
 
-- 🌱 I’m currently learning **JavaScript, LLM Integration**
+- 🌱 I’m currently learning **JavaScript, LLM Integration, OpenAI Integration, Zapier Workflows**
 
 - 📫 How to reach me **miguel.teodoro117@gmail.com**
 
